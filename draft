@@ -1,0 +1,29 @@
+//const name = require('./utils')
+
+/* function is returned */
+//const addFunction = require('./utils')
+
+//console.log(name)
+
+//console.log(addFunction(2, 5))
+
+
+/* "Challenge 1" */
+//const notesFunction = require('./notes')
+
+//console.log(notesFunction())
+
+/* loading npm package */
+//const validator = require('validator')
+
+//console.log(validator.isEmail('dinopedia93@gmail.com'))
+
+
+/* "Challenge 2" */
+//const chalk = require('chalk');
+ 
+//console.log(chalk.red('error'));
+
+/* get input from command line */
+/* [0] : path to node js */
+/* [1] : path to the javasript */
